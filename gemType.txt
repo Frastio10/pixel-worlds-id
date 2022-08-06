@@ -1,0 +1,5 @@
+Gem1 = 0
+Gem2 = 1
+Gem3 = 2
+Gem4 = 3
+Gem5 = 4

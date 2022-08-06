@@ -1,0 +1,13 @@
+StarBackground = 5
+BlueSkyBackground = 11
+CandyBackground = 6
+CemeteryBackground = 8
+CityBackground = 10
+DesertBackground = 3
+ForestBackground = 0
+HalloweenTowerBackground = 7
+IceBackground = 4
+JetRaceBackground = 12
+NetherBackground = 9
+NightBackground = 1
+SpaceBackground = 2

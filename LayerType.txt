@@ -1,0 +1,4 @@
+Background = 1
+Block = 0
+Water = 2
+Wiring = 3
