@@ -1,0 +1,54 @@
+[
+  {
+		"ID": 1,
+		"name": "Block"
+	},
+	{
+		"ID": 2,
+		"name": "BlockBackground"
+	},
+	{
+		"ID": 3,
+		"name": "Seed"
+	},
+	{
+		"ID": 4,
+		"name": "BlockWater"
+	},
+	{
+		"ID": 5,
+		"name": "WearableItem"
+	},
+	{
+		"ID": 6,
+		"name": "Weapon"
+	},
+	{
+		"ID": 7,
+		"name": "Throwable"
+	},
+	{
+		"ID": 8,
+		"name": "Consumable"
+	},
+	{
+		"ID": 9,
+		"name": "Shard"
+	},
+	{
+		"ID": 10,
+		"name": "Blueprint"
+	},
+	{
+		"ID": 11,
+		"name": "Familiar"
+	},
+	{
+		"ID": 12,
+		"name": "FAMFood"
+	},
+	{
+		"ID": 13,
+		"name": "BlockWiring"
+	}
+]
